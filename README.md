@@ -5,7 +5,7 @@ An attempt to use a Glove based network to preform sentiment analysis on an amaz
 You can find the amazon reviews data set used at https://www.kaggle.com/mohitsoni14521452/amazon-product-reviews-data
 We filtered by the video games category as the dataset was initially too large.
 
-Contents of Files
+#Contents of Files
 
 ## data.py
 The data pipeline of the application. Handles the loading, cleaning and tokenizing of the data.
